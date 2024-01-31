@@ -801,7 +801,7 @@ a:hover {
 .col-md-4
 {
   transition: all 1.2s ease;
-
+  height: 400px;
 }
 .col-md-4:hover
 {
