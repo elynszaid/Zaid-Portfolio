@@ -798,6 +798,24 @@ a:hover {
   margin-bottom: 3rem;
   text-align: center;
 }
+
+
+.col-md-9
+{
+  transition: all 1.2s ease;
+  height: 400px;
+}
+.col-md-9:hover
+{
+  transform: scale(1.1);
+}
+
+.oopoo
+{
+  
+  border-radius: 100px;
+}
+
 .col-md-4
 {
   transition: all 1.2s ease;
@@ -835,6 +853,11 @@ a:hover {
 }
 .service-box .s-description {
   color: #4e4e4e;
+}
+.achref
+{
+  color: blue;
+  text-decoration: underline;
 }
 
 /*--------------------------------------------------------------
